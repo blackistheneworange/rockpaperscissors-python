@@ -2,7 +2,7 @@ import random
 
 print("--- Welcome To Rock,Paper,Scissors Powered By Python ---\n\n")
 
-options=['Rock','Paper','Scissor']
+options=['Rock','Paper','Scissors']
 
 def initialize():
 	init=input("Enter 's' to start \n")
